@@ -1,0 +1,16 @@
+export default {
+  logos: require('src/assets/images/logos.png'),
+  activeLocation: require('src/assets/images/activeLocation.png'),
+  activeTask: require('src/assets/images/activeTask.png'),
+  addTask: require('src/assets/images/addTask.png'),
+  inActiveLocation: require('src/assets/images/inActiveLocation.png'),
+  inActiveTask: require('src/assets/images/inActiveTask.png'),
+  checkIcon: require('src/assets/images/check-icon.png'),
+  uncheckIcon: require('src/assets/images/uncheck-icon.png'),
+  delIcon: require('src/assets/images/del-icon.png'),
+  summary: require('src/assets/images/summary.png'),
+  datetime: require('src/assets/images/datetime.png'),
+  description: require('src/assets/images/description.png'),
+  alarm: require('src/assets/images/alarm.png'),
+  lollyPop: require('src/assets/images/lolly-pop.png'),
+};
